@@ -12,7 +12,7 @@
 ## INTRODUCTION
 
 UConn Bootcamp Module 1: HTML, CSS, and Git <br />
-Tutorial guide to learn about basic HTML, CSS and Git. <br />
+Following UConn Bootcamp's tutorial guide to learn about basic HTML, CSS and Git. <br />
 <br/>
 Built With:
 - HTML
