@@ -55,7 +55,7 @@ Tutorial Lessons:
 Version edits and changes can be found in Github commit changes at https://github.com/paperpatch/Module1
 
 
-## WEBSITE
+## ACCESS
 Webpage can be found at https://paperpatch.github.io/Module1/
 
 ![Alt text](./assets/images/run-buddy.png "run-buddy") 
