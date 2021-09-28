@@ -1,7 +1,6 @@
 # Module1
 
 ## CONTENTS OF THIS FILE
-------------------------------
 
 * Introduction
 * Description
@@ -11,7 +10,6 @@
 
 
 ## INTRODUCTION
-------------------------------
 
 UConn Bootcamp Module 1: HTML, CSS, and Git <br />
 Tutorial guide to learn about basic HTML, CSS and Git. <br />
@@ -21,7 +19,6 @@ Built With:
 - CSS
 
 ## DESCRIPTION
-------------------------------
 Tutorial Lessons:
 
 - Lesson 1: Set up the Project
@@ -59,15 +56,12 @@ Version edits and changes can be found in Github commit changes at https://githu
 
 
 ## WEBSITE
-------------------------------
 Webpage can be found at https://paperpatch.github.io/Module1/
 
 ![Alt text](./assets/images/run-buddy.png "run-buddy") 
 
 ## CONTRIBUTION
-------------------------------
 Made by paperpatch
 
 ## ACKNOWLEDGEMENT
-------------------------------
 Thank you UConn Bootcamp
