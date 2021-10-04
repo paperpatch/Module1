@@ -52,11 +52,11 @@ Tutorial Lessons:
     -  Reuse a CSS style sheet across multiple pages.
     -  Link multiple CSS style sheets in the same HTML document.
 
-Version edits and changes can be found in Github commit changes at https://github.com/paperpatch/Module1
+Version edits and changes can be found in Github commit changes at https://github.com/paperpatch/module-1
 
 
 ## ACCESS
-Webpage can be found at https://paperpatch.github.io/Module1/
+Webpage can be found at https://paperpatch.github.io/module-1/
 
 ![Alt text](./assets/images/run-buddy.png "run-buddy") 
 
