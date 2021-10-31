@@ -56,7 +56,7 @@ Version edits and changes can be found in Github commit changes at https://githu
 
 
 ## ACCESS
-Webpage can be found at https://paperpatch.github.io/module-1/
+Webpage can be found at https://paperpatch.github.io/module_1/
 
 ![Alt text](./assets/images/run-buddy.png "run-buddy") 
 
