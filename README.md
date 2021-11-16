@@ -2,8 +2,6 @@
 
 Run Buddy Website
 
-![Alt text](./assets/images/run-buddy.png "run-buddy") 
-
 ## CONTENTS OF THIS FILE
 
 * [Description](#description)
@@ -12,7 +10,9 @@ Run Buddy Website
 
 ## DESCRIPTION
 
-A learning process to create a website using HTML and CSS
+A learning process to create a website using HTML and CSS.
+
+![Alt text](./assets/images/run-buddy.png "run-buddy") 
 
 ## ACCESS
 Webpage can be found at https://paperpatch.github.io/run_buddy/
